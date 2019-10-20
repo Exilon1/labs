@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76f37c3-b1f6-4a09-992b-eb162b66d7eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-1-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f76f37c3-b1f6-4a09-992b-eb162b66d7eb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +42,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1SSswDO3SBjComEl0Oq4jEtokPb" />
+  <component name="ProjectId" id="1ST2NTtYpOkvEFl20ziMRmmveWc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -73,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HelloWorldTest.testInitPerson">
+  <component name="RunManager" selected="JUnit.HelloWorldTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -276,10 +270,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HelloWorldTest.testInitPerson" />
         <item itemvalue="JUnit.HelloWorldTest" />
         <item itemvalue="JUnit.HelloWorldTest.testInitPerson" />
-        <item itemvalue="JUnit.HelloWorldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,56 +302,21 @@
       <workItem from="1505727138414" duration="3356000" />
       <workItem from="1536647204082" duration="586000" />
     </task>
+    <task id="LOCAL-00001" summary="idea changes">
+      <created>1571568910616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571568910616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="HelloWorldTest - 2017.02.13 at 17h 01m 11s.xml">
-      <configuration name="HelloWorldTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest - 2017.09.18 at 12h 58m 27s.xml">
-      <configuration name="HelloWorldTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 12h 59m 01s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 12h 59m 51s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 00m 13s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 00m 49s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 01m 23s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 01m 32s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 01m 39s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorldTest_testInitPerson - 2017.09.18 at 13h 01m 56s.xml">
-      <configuration name="HelloWorldTest.testInitPerson" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="9121000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -368,6 +325,21 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/springioc/lab1/model/HelloWorldTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
