@@ -36,10 +36,9 @@ public class Country implements Serializable
         this.codeName = codeName;
     }
 
-    public Country(String name, String codeName)
-    {
-        this.name = name;
-        this.codeName = codeName;
+    public Country(int id, String name, String codeName, A a) {
+        this(id, name, codeName);
+        this.a = a;
     }
 
     public int getId()
